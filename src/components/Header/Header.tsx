@@ -37,11 +37,11 @@ const Link = styled.a`
 const Header: React.FC = () => {
   return (
     <HeaderEl>
-      <Link href="https://www.linkedin.com/in/rafaelbrunoweb/">
+      <Link target="_blank" href="https://www.linkedin.com/in/rafaelbrunoweb/">
         by Rafael Bruno
       </Link>
       <Title>Weather13</Title>
-      <Link href="">GitHub</Link>
+      <Link target="_blank" href="https://github.com/rafabrunodev/weather13">GitHub</Link>
     </HeaderEl>
   );
 };
