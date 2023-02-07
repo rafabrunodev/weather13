@@ -8,6 +8,7 @@ exports[`Header.tsx > should match Snapshot 1`] = `
     <a
       class="sc-dkrFOg bdQghR"
       href="https://www.linkedin.com/in/rafaelbrunoweb/"
+      target="_blank"
     >
       by Rafael Bruno
     </a>
@@ -18,7 +19,8 @@ exports[`Header.tsx > should match Snapshot 1`] = `
     </h2>
     <a
       class="sc-dkrFOg bdQghR"
-      href=""
+      href="https://github.com/rafabrunodev/weather13"
+      target="_blank"
     >
       GitHub
     </a>
