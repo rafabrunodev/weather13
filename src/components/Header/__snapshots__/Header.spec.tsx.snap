@@ -1,0 +1,27 @@
+// Vitest Snapshot v1
+
+exports[`Header.tsx > should match Snapshot 1`] = `
+<div>
+  <header
+    class="sc-bcXHqe fDtTUV"
+  >
+    <a
+      class="sc-dkrFOg bdQghR"
+      href="https://www.linkedin.com/in/rafaelbrunoweb/"
+    >
+      by Rafael Bruno
+    </a>
+    <h2
+      class="sc-gswNZR bvYKxX"
+    >
+      Weather13
+    </h2>
+    <a
+      class="sc-dkrFOg bdQghR"
+      href=""
+    >
+      GitHub
+    </a>
+  </header>
+</div>
+`;
