@@ -1,4 +1,4 @@
-# weather13
+# Weather13
 
 A Weather application with React, StyledComponents, Vite, Typescript and Vitest :)
 
